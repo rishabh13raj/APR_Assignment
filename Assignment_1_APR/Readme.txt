@@ -15,7 +15,7 @@ Dataset Name: Titanic Dataset
 **Source**: [GitHub - DataScienceDojo](https://github.com/datasciencedojo/datasets)  
 **Direct Link**: [https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 
-### Features:
+*Features:
 - `Pclass`: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
 - `Sex`: Male or Female
 - `Age`: Age of passenger
@@ -24,14 +24,14 @@ Dataset Name: Titanic Dataset
 - `Fare`: Fare paid
 - `Embarked`: Port of Embarkation (C/Q/S)
 
-### Target:
+*Target:
 - `Survived`: Whether passenger survived (1) or not (0)
 
 ---
 
-## ⚙️ Algorithm Used
+*Algorithm Used
 
-**Logistic Regression** from `scikit-learn` was used for binary classification.  
+"Logistic Regression" from `scikit-learn` was used for binary classification.  
 Model performance was evaluated using:
 
 - Accuracy Score  
@@ -40,6 +40,6 @@ Model performance was evaluated using:
 - Feature Importance (based on model coefficients)
 
 ---
+Project Structure
 
-## 🧪 Project Structure
 
